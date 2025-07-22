@@ -1,0 +1,16 @@
+{
+  "characters": [
+    {
+      "name": "Barnaby",
+      "description": "A golden retriever puppy who is initially fearful of a thunderstorm but overcomes his fear to bravely rescue a small kitten from the storm."
+    },
+    {
+      "name": "Lily",
+      "description": "Barnaby's loving human owner, a young girl who is initially oblivious to the kitten's plight but shows compassion and care for it once rescued."
+    },
+    {
+      "name": "The Kitten",
+      "description": "A tiny, black and white kitten who is lost and terrified in the storm. It is saved by Barnaby and becomes his new friend."
+    }
+  ]
+}

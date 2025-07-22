@@ -1,0 +1,36 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "description": "A golden retriever puppy, Barnaby, hides under a kitchen table during a fierce thunderstorm, pressing against the legs of his owner, Lily, as lightning flashes outside the window.",
+      "characters": [
+        "Barnaby",
+        "Lily"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "description": "Driven by a faint cry, Barnaby pushes his way out of a doggy door into the raging storm, facing the wind and slanting rain in the muddy garden.",
+      "characters": [
+        "Barnaby"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "description": "Under a thorny rose bush, Barnaby finds a tiny, shivering black and white kitten. He gently picks up the kitten by its scruff to carry it to safety.",
+      "characters": [
+        "Barnaby",
+        "kitten"
+      ]
+    },
+    {
+      "scene_number": 4,
+      "description": "Inside the warm kitchen, Lily kneels and hugs her muddy hero, Barnaby. The rescued kitten sleeps safely curled up against the puppy on a rug.",
+      "characters": [
+        "Barnaby",
+        "Lily",
+        "kitten"
+      ]
+    }
+  ]
+}
