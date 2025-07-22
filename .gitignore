@@ -1,1 +1,6 @@
 .env
+/__pycache__
+/json_files
+/md_files
+/Image_generated
+/Scene_Images
